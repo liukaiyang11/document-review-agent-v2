@@ -143,7 +143,7 @@ terraform apply
 - Part 2：基于 LangChain1.1 从零搭建 AI 文档审核系统
 - Part 3：基于 LangChain1.1 实现人机交互审核（HITL）
 
-- 📖 课程文档：[飞书知识库](#)（待补充）
+- 📖 课程文档：[飞书知识库](https://scnxinvxtnbo.feishu.cn/wiki/TqwqwU6AgiACIfksEjVcvEGSnob)
 - 🎥 视频教程：[课程链接](#)（待补充）
 
 ---
